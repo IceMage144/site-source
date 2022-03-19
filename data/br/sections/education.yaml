@@ -1,0 +1,18 @@
+section:
+  name: Educação
+  id: education
+  template: sections/education.html # sections/education-alt.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # hideTitle: true
+
+degrees:
+- name: Bacharelado em Ciência da Computação
+  icon: fa-graduation-cap
+  timeframe: 2016-2020
+  institution:
+    name: Universidade de São Paulo
+    url: https://www5.usp.br/
+  extracurricularActivities: #(optional)
+  - "USPGameDev (https://usp.game.dev.br/)"

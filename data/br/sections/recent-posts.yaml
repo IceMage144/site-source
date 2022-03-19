@@ -1,0 +1,7 @@
+# section:
+#   name: Publicações Recentes
+#   id: recent-posts
+#   enable: true
+#   weight: 6
+#   showOnNavbar: true
+#   # hideTitle: true

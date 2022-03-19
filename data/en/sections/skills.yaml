@@ -1,0 +1,40 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # hideTitle: true
+
+# skills:
+# - name: Linux
+#   icon: "images/skills/linux.png"
+#   summary: "Used Linux for 4 years. Capable of installing and managinig the OS."
+
+# - name: Git
+#   icon: "images/skills/git.png"
+#   summary: "Capable of doing complex git operations through command line. Used to GitHub, GitLab and Bitbucket interfaces."
+
+# - name: Unity3D
+#   icon: "images/skills/unity.png"
+#   summary: "Formally worked 2 years with Unity. Capable of doing a game from the ground up, optimizing it, deploying it and dealing with packages."
+
+# - name: Godot
+#   icon: "images/skills/godot.png"
+#   summary: "Worked 4 years with Godot while I was at the college. Capable of doing a game from the ground up, working with the engine's source code and dealing with packages."
+
+# - name: C#
+#   icon: "images/skills/c_sharp.png"
+#   summary: "Only worked with it together with Unity."
+
+# - name: Lua
+#   icon: "images/skills/lua.png"
+#   summary: "."
+
+# - name: Python
+#   icon: "images/skills/python.png"
+#   summary: "My go-to language for scripting. Capabe of creating a CLI (click), processing images (pillow and OpenCV), doing machine learning (PyTorch), creating data visualizations (matplotlib, pandas and ipython notebook) and creating packages."
+
+# - name: Command line
+#   icon: "images/skills/command_line.png"
+#   summary: "Used with Unix commands and somewhat used to bash scripting."

@@ -1,0 +1,38 @@
+title: "João's site"
+theme: "toha"
+
+baseURL: https://icemage144.github.io/
+languageCode: en
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  br:
+    languageName: Português
+    weight: 2
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+
+params:
+  background: /images/stars.jpg
+  # gitRepo: https://github.com/icemage144/icemage144.github.io
+  # gitBranch: master
+  enableBlogPost: true
+  enabeTOC: true
+  newsletter:
+    enable: false
+  #   provider: mailchimp
+

@@ -1,0 +1,29 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # hideTitle: true
+
+experiences:
+- company:
+    name: Tapps Games
+    url: "https://tappsgames.com/"
+    location: São Paulo, SP, Brazil
+    overview: Tapps Games is a brazilian game studio worldly recognized by its +400 games.
+  positions:
+  - designation: Game Programmer Intern
+    start: Aug 2018
+    end: Jul 2020
+    responsibilities:
+    - Develop tools for automating other areas' tasks
+    - Develop game features using their internal Lua-based game engine
+    - Review code from other programmers
+  - designation: Junior Game Programmer
+    start: Aug 2020
+    # end: 
+    responsibilities:
+    - Develop tools for automating tasks
+    - Develop game features using their internal Lua-based game engine and Unity3D
+    - Review code from other programmers

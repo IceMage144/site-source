@@ -1,0 +1,29 @@
+section:
+  name: Experiências
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # hideTitle: true
+
+experiences:
+- company:
+    name: Tapps Games
+    url: "https://tappsgames.com/pt-br/"
+    location: São Paulo, SP, Brasil
+    overview: Tapps Games é um estúdio de jogos brasileiro, conhecido mundialmente pelos seus mais de 400 jogos.
+  positions:
+  - designation: Programador de Jogos Estagiário
+    start: Ago 2018
+    end: Jul 2020
+    responsibilities:
+    - Desenvolver ferramentas para automatizar processos de outras áreas
+    - Desenvolver conteúdo novo para os jogos usando a engine interna da empresa (baseada em Lua)
+    - Revisar o código de outros programadores
+  - designation: Programador de Jogos Júnior
+    start: Ago 2020
+    # end: 
+    responsibilities:
+    - Desenvolver ferramentas para automatizar processos
+    - Desenvolver conteúdo novo para os jogos usando a engine interna da empresa (baseada em Lua) e também Unity3D
+    - Revisar o código de outros programadores

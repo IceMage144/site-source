@@ -1,0 +1,5 @@
+customMenus:
+- name: Trabalhos
+  url: works
+  hideFromNavbar: false
+  showOnFooter: true
