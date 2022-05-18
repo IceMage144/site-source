@@ -1,10 +1,10 @@
 ---
-title: Julia Set
-date: 2020-06-09T08:06:25+06:00
-description: Julia Set generator.
+title: Julia Set Visualizer
+date: 2018-02-01T00:00:00+03:00
+description: An online tool for visualizing Julia Sets.
 menu:
   sidebar:
-    name: Julia Set
+    name: Julia Set Visualizer
     identifier: julia-set
     parent: apps
     weight: 2
@@ -13,4 +13,57 @@ tags: ["Julia", "Set", "App"]
 categories: ["Personal"]
 ---
 
-Something.
+<link rel="stylesheet" href="/css/julia.css">
+
+<div id="gamediv">
+  <div class="julia-row">
+    <div class="julia-column">
+      <h2>Julia</h2>
+      <canvas id="julia"></canvas>
+    </div>
+    <div class="julia-column">
+      <h2>Mandelbrot</h2>
+      <canvas id="mand"></canvas>
+    </div>
+  </div>
+</div>
+
+<div class="input-group">
+  <div class="row-el">
+    <div class="inputBorder">
+      <input type="text" id="real"/>
+    </div>
+  </div>
+  <p class="row-el" style="font-size: 20px"> + i </p>
+  <div class="row-el">
+    <div class="inputBorder">
+      <input type="text" id="imaginary"/>
+    </div>
+  </div>
+  <input id="sub" class="row-el" type="submit" value="Submit" onClick="sub()"/>
+</div>
+
+<div class="res-group">
+  <p id="res" class="row-el">Resolution: 200</p>
+  <input class="row-el" type="submit" value="+" onClick="increaseResol()"/>
+  <input class="row-el" type="submit" value="-" onClick="decreaseResol()"/>
+</div>
+<script>
+  var onKeyPress = function(event)
+  {
+    if (event.keyCode == 13)
+    {
+      document.getElementById('sub').click();
+    }
+  }
+  document.getElementById('real').onkeypress = onKeyPress
+  document.getElementById('imaginary').onkeypress = onKeyPress
+</script>
+
+<script type="text/javascript" src="/js/game_engine.js"></script>
+<script type="text/javascript" src="/js/julia_script.js"></script>
+
+## How to use
+* Enter an imaginary number at the fields to see the corresponding Julia set on the left canvas
+* You can hold the Z key and point with the mouse to the Mandelbrot set, so you can see the Julia set of that point on the left canvas
+* You can increase or decrease the resolution using the "+" and "-" buttons

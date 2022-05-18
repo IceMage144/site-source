@@ -17,6 +17,9 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
 
 outputs:
   home:
@@ -24,10 +27,15 @@ outputs:
     - RSS
     - JSON
 
+module:
+  mounts:
+  - source: assets
+    target: assets
+
 enableEmoji: true
 
 params:
-  background: /images/stars.jpg
+  background: img/stars.jpg
   # gitRepo: https://github.com/icemage144/icemage144.github.io
   # gitBranch: master
   enableBlogPost: true
