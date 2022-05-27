@@ -8,7 +8,7 @@ menu:
     identifier: ludum-dare-41
     parent: game-jams
     weight: 3
-hero: /images/lasagna-cover.png
+hero: lasagna-cover.png
 tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---

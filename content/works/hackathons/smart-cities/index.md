@@ -13,4 +13,4 @@ tags: ["Smart City"]
 categories: ["Hackathon"]
 ---
 
-A 24-hour hackathon organized by our fellows from USP, at the theme Smart Cities. I participated together with my friend Raphael Gusmão and we got honor to merit for the best design. We made the project "Stuffz", an app for delivering anything you want.
+A 24-hour hackathon organized by our fellows from USP, at the theme "Smart Cities". I participated together with my friend Raphael Gusmão. We made the project "Stuffz", an app for delivering anything you want. The project got honor to merit for the best design.

@@ -8,7 +8,7 @@ menu:
     identifier: livre-game-jam-2017
     parent: game-jams
     weight: 1
-hero: /images/network-battle-cover.png
+hero: network-battle-cover.png
 tags: ["Game Jam", "Livre Game Jam"]
 categories: ["Events"]
 ---

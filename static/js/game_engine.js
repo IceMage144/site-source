@@ -314,6 +314,9 @@ class Canvas {
     get(name, layer=0) {
         return this.layers[layer].objs[name];
     }
+    has(name, layer=0) {
+        return name in this.layers[layer].objs;
+    }
     addLayer(num=1) {
         for (let i = 0; i < num; i++) {
             this.layers[this.numLayers] = new Layer()

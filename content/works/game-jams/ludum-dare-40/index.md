@@ -8,12 +8,12 @@ menu:
     identifier: ludum-dare-40
     parent: game-jams
     weight: 2
-hero: /images/lava-lamp-cover.png
+hero: lava-lamp-cover.png
 tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---
 
-A 72-hour online global game jam. Our team from [USPGameDev](https://uspgamedev.org/) got together at USP to make "L.A.V.A. series L.A.M.P. edition vs the world", a cyberpunk shooting game were the objective is to kill as many waves of monster you can, using dozens of different weapons. The theme for this edition was "The more you have, the worse it is", so we made a game were, as the waves are beaten, you get more weapons and the worse it is to manage them at your keyboard.
+A 72-hour online global game jam. The theme for this edition was "The more you have, the worse it is". Our team from [USPGameDev](https://uspgamedev.org/) got together at USP to make "L.A.V.A. series L.A.M.P. edition vs the world", a cyberpunk shooting game were the objective is to kill as many waves of monster you can, using dozens of different weapons. As the waves are beaten, you get more weapons and the worse it is to manage them at your keyboard.
 
 Project:
 * Engine: Godot

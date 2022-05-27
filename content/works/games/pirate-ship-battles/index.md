@@ -1,14 +1,14 @@
 ---
 title: Pirate Ship Battles
 date: 2020-06-09T08:06:25+06:00
-description: My version of the classic Missile Command game.
+description: A pirate ship battle online multiplayer game
 menu:
   sidebar:
     name: Pirate Ship Battles
     identifier: pirate-ship-battles
     parent: games
     weight: 5
-# hero: images/forest.jpg
+hero: pirate-ship-battles-cover.png
 tags: ["Pirate", "Ship", "Battles", "Multiplayer", "Game"]
 categories: ["Extension"]
 ---

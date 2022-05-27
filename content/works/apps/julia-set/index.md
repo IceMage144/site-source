@@ -1,6 +1,6 @@
 ---
 title: Julia Set Visualizer
-date: 2018-02-01T00:00:00+03:00
+date: 2018-02-01T00:00:00-03:00
 description: An online tool for visualizing Julia Sets.
 menu:
   sidebar:
@@ -8,10 +8,20 @@ menu:
     identifier: julia-set
     parent: apps
     weight: 2
-# hero: images/forest.jpg
+hero: julia-set-cover.png
 tags: ["Julia", "Set", "App"]
 categories: ["Personal"]
+math: true
 ---
+
+The Julia set of a complex point c is defined to be the set of complex points z such that the following sequence does not diverge.
+
+$$a_0 = z$$
+$$a_n = a_{n-1}^2 + c$$
+
+This app generates a picture coloring each point of the complex plane with a different color depending on how "quickly" the sequence diverges when it starts at that point.
+
+Since the Mandelbrot set is deeply linked with the Julia set (if c is a point of the Mandelbrot set, then the Julia set of that point is not empty) the app displays a picture of the Mandelbrot set to guide the choice of c.
 
 <link rel="stylesheet" href="/css/julia.css">
 
@@ -29,6 +39,7 @@ categories: ["Personal"]
 </div>
 
 <div class="input-group">
+  <p class="row-el" style="font-size: 20px"> c = </p>
   <div class="row-el">
     <div class="inputBorder">
       <input type="text" id="real"/>

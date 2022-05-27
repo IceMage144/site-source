@@ -8,7 +8,7 @@ menu:
     identifier: global-game-jam-2019
     parent: game-jams
     weight: 6
-hero: /images/mothers-home-cover.png
+hero: mothers-home-cover.png
 tags: ["Game Jam", "Global Game Jam", "GGJ"]
 categories: ["Events"]
 ---

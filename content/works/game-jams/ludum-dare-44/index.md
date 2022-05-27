@@ -8,7 +8,7 @@ menu:
     identifier: ludum-dare-44
     parent: game-jams
     weight: 7
-hero: /images/sinner-cover.png
+hero: sinner-cover.png
 tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---

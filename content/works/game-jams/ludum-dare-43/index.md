@@ -8,7 +8,7 @@ menu:
     identifier: ludum-dare-43
     parent: game-jams
     weight: 5
-hero: /images/mechamorphosis-cover.png
+hero: mechamorphosis-cover.png
 tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Derivative Calculator
-date: 2016-11-15T00:00:00+03:00
+date: 2016-11-15T00:00:00-03:00
 description: A derivative calculator.
 menu:
   sidebar:
@@ -8,10 +8,14 @@ menu:
     identifier: derivative-calculator
     parent: apps
     weight: 1
-# hero: images/forest.jpg
+hero: derivative-calculator-cover.png
 tags: ["Derivative", "Calculator", "App"]
 categories: ["Personal"]
 ---
+
+This app calculates the derivative of a function for you. It parses the input into a tree of operators, numbers and variables, passes through the tree deriving the functions and then parses it back to LaTeX, so the result can be shown.
+
+It is not optmized, so you may have to do some algebraic manipulations to simplify the result.
 
 <link rel="stylesheet" type="text/css" href="/css/derivative.css" />
 
@@ -44,7 +48,7 @@ categories: ["Personal"]
 </script>
 
 ## How to use
-* Put the function in the first line
+* Write the function at the first line
 * Put the variable you want to derivate in at the second line
 * Click on the "Calculate" button and see the derivative!
 
@@ -57,4 +61,3 @@ categories: ["Personal"]
 * Every trigonometric function were implemented (reciprocals, inverses and hiperbolics too)
 * sum(a, b, x_i) = summation of x_i's, with i going from a to b (a and b can be almost anything) (Obs.: don't try to derivate it in x_i!)
 * Factorial is not implemented
-* You may have to do some algebraic manipulations to simplify the result :)

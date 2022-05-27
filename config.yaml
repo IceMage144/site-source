@@ -35,11 +35,15 @@ module:
 enableEmoji: true
 
 params:
-  background: img/stars.jpg
+  background: images/stars.jpg
+  # logo:
+  #   main: images/favicon.png
+  #   inverted: images/favicon.png
+  #   favicon: images/favicon.png
   # gitRepo: https://github.com/icemage144/icemage144.github.io
   # gitBranch: master
   enableBlogPost: true
-  enabeTOC: true
+  # enabeTOC: true
   newsletter:
     enable: false
   #   provider: mailchimp
