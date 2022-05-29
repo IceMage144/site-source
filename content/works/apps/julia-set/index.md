@@ -14,6 +14,9 @@ categories: ["Personal"]
 math: true
 ---
 
+This app generates a picture of Julia set.
+<!--more-->
+
 The Julia set of a complex point c is defined to be the set of complex points z such that the following sequence does not diverge.
 
 $$a_0 = z$$

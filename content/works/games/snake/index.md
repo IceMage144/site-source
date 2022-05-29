@@ -8,10 +8,13 @@ menu:
     identifier: snake
     parent: games
     weight: 1
-# hero: images/forest.jpg
+hero: snake-cover.png
 tags: ["Snake", "Game"]
 categories: ["Personal"]
 ---
+
+My version of the classic Snake game.
+<!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
 
@@ -26,7 +29,7 @@ categories: ["Personal"]
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/snake.js"></script>
 
-## How to play
+#### How to play
 * Arrow keys: Move the snake
 * P: Pause
 * Eat apples to increase your score!!

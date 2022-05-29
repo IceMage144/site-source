@@ -8,10 +8,13 @@ menu:
     identifier: tetris
     parent: games
     weight: 2
-# hero: images/forest.jpg
+hero: tetris-cover.png
 tags: ["Tetris", "Game"]
 categories: ["Personal"]
 ---
+
+My version of the classic Tetris game.
+<!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
 
@@ -26,7 +29,7 @@ categories: ["Personal"]
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/tetris.js"></script>
 
-## How to play
+#### How to play
 * Left and right keys: Move the piece</li>
 * Down key: Increases piece's falling speed</li>
 * Z: Rotate the piece anticlockwise</li>

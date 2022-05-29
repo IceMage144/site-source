@@ -22,8 +22,15 @@ experiences:
     - Review code from other programmers
   - designation: Junior Game Programmer
     start: Aug 2020
+    end: May 2022
+    responsibilities:
+    - Develop game features using their internal Lua-based game engine and Unity3D
+    - Develop tools for automating tasks
+    - Review code from other programmers
+  - designation: Game Programmer
+    start: May 2022
     # end: 
     responsibilities:
+    - Develop game features using Unity3D
     - Develop tools for automating tasks
-    - Develop game features using their internal Lua-based game engine and Unity3D
     - Review code from other programmers

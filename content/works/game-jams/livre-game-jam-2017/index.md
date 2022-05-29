@@ -15,11 +15,11 @@ categories: ["Events"]
 
 A 48-hour game jam organized by [LivreCamp](https://www.livrecamp.org/), [Gamux](http://www.gamux.com.br/) and [Fellowship of the game](http://www.fog.icmc.usp.br/) to promote the use of free software. Our team from [USPGameDev](https://uspgamedev.org/) went to UNICAMP to participate. We made the game "Network Battle: Chain Hostility", an assimetric multiplayer game about a cyberwar between a hacker and the government.
 
-Project:
-* Engine: LOVE2D
-* My role: Programmer
+#### Project
+* **Engine**: LOVE2D
+* **My role**: Programmer
 
-Links:
+#### Links
 * [Play it](https://icemage144.itch.io/network-battle-chain-hostility)
 * [Repository](https://github.com/uspgamedev/livregamejam2017)
 * [Entry](https://icemage144.itch.io/network-battle-chain-hostility)

@@ -8,10 +8,13 @@ menu:
     identifier: missile-command
     parent: games
     weight: 4
-# hero: images/forest.jpg
+hero: missile-command-cover.png
 tags: ["Missile", "Command", "Game"]
 categories: ["Personal"]
 ---
+
+My version of the classic Missile Command game.
+<!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
 
@@ -26,7 +29,7 @@ categories: ["Personal"]
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/missile_command.js"></script>
 
-# How to play
+### How to play
 * Arrow keys: Move cursor
 * Z: Shoot
 * P: Pause

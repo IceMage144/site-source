@@ -8,10 +8,13 @@ menu:
     identifier: maze
     parent: games
     weight: 3
-# hero: images/forest.jpg
+hero: maze-cover.png
 tags: ["Maze", "Game"]
 categories: ["Personal"]
 ---
+
+A 3D game that emulates an analogical maze toy.
+<!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
 
@@ -25,6 +28,6 @@ categories: ["Personal"]
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/maze.js"></script>
 
-# How to play
+### How to play
 * Arrow keys: Move the maze
 * Bring the ball to the green spot!!

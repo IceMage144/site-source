@@ -17,13 +17,20 @@ experiences:
     start: Ago 2018
     end: Jul 2020
     responsibilities:
-    - Desenvolver ferramentas para automatizar processos de outras áreas
     - Desenvolver conteúdo novo para os jogos usando a engine interna da empresa (baseada em Lua)
+    - Desenvolver ferramentas para automatizar processos de outras áreas
     - Revisar o código de outros programadores
   - designation: Programador de Jogos Júnior
     start: Ago 2020
+    end: Mai 2022
+    responsibilities:
+    - Desenvolver conteúdo novo para os jogos usando a engine interna da empresa (baseada em Lua) e também Unity3D
+    - Desenvolver ferramentas para automatizar processos
+    - Revisar o código de outros programadores
+  - designation: Programador de Jogos Pleno
+    start: Mai 2022
     # end: 
     responsibilities:
+    - Desenvolver conteúdo novo para os jogos usando Unity3D
     - Desenvolver ferramentas para automatizar processos
-    - Desenvolver conteúdo novo para os jogos usando a engine interna da empresa (baseada em Lua) e também Unity3D
     - Revisar o código de outros programadores

@@ -14,12 +14,13 @@ categories: ["Events"]
 ---
 
 Our team from [USPGameDev](https://uspgamedev.org/) got together again to make "Sinner". The theme was "Your life is currency".
+<!--more-->
 
-Project:
-* Engine: Godot
-* My role: Programmer
+#### Project
+* **Engine**: Godot
+* **My role**: Programmer
 
-Links:
+#### Links
 * [Play it](https://uspgamedev.itch.io/sinner)
 * [Repository](https://gitlab.com/uspgamedev/sinner)
 * [Entry](https://ldjam.com/events/ludum-dare/44/sinner)
