@@ -24,5 +24,14 @@ The protagonist's life will change forever once they find out what is really goi
 * **Engine**: Godot
 * **My role**: Programmer
 
+#### Projeto
+* **Team**: 3-7 people (varied through time)
+* **Duration**: 1 year e 6 months
+* **Engine**: Godot
+* **My role**: Programmer
+
+#### Links
+* [Repositório](https://github.com/uspgamedev/Deviant)
+
 #### Links
 * [Repository](https://github.com/uspgamedev/Deviant)

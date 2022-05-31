@@ -13,9 +13,17 @@ tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---
 
-Our team from [USPGameDev](https://uspgamedev.org/) got together again to make "Mechamorphosis", a game where you're a rusty robot captured by an evil corporation that wants to turn you and your friends into mechanical waste, and the objective is to acquire parts to yourself, kill all the guard robots and escape from the building. The theme was "Sacrifices must be made", and we created a mechanic where you have to sacrifice a part and get another one to pass to the next room. As some parts give you buffs, others give you debuffs, and you have to deal with it through the game.
+In this jam we made "Mechamorphosis", a game where you are a rusty robot that was captured by an evil organization that wants to turn you and your friends into mechanical waste. The goal is to aquire new parts to yourself, defeat all the guard robots and escape the building.
+
+The theme was "Sacrifices must be made", we created a mechanic where you have to sacrifice a part and get a new one to get to the next room. Some parts give you buffs and other debuffs, and you have to deal with them through the game.
+
+#### Jam
+* **Duration**: 3 days
+* **Model**: Online
+* **Place**: IME - USP - São Paulo, SP
 
 #### Project
+* **Team**: [USPGameDev](https://uspgamedev.org/) (10 people)
 * **Engine**: Godot
 * **My role**: Programmer
 

@@ -13,9 +13,19 @@ tags: ["Game Jam", "Global Game Jam", "GGJ"]
 categories: ["Events"]
 ---
 
-A 48-hour gobal game jam. [IME hosted a site](https://globalgamejam.org/2019/jam-sites/usp-ggj) and we divided [USPGameDev](https://uspgamedev.org/) into two groups. My group created "Mother's home", a game where you are a little creative kid, that adventures through an imaginary maze in his house to play with his toys, but don't want to get far from his mom. The theme was "What home means to you", and the game explores how the house feels like an unknown place to the kid, as his mother is his real home.
+A 48-hour gobal game jam. [IME hosted a site](https://globalgamejam.org/2019/jam-sites/usp-ggj) and we divided [USPGameDev](https://uspgamedev.org/) into two groups.
+
+My group created "Mother's home", a game where you are a little creative kid that adventures through an imaginary maze in his house to play with his toys, but don't want to get far from his mom.
+
+The theme was "What home means to you?", and the game explores how the house feels like an unknown place to the kid, as his mother is his real home.
+
+#### Jam
+* **Duration**: 2 days
+* **Model**: Presential
+* **Place**: IME - USP - São Paulo, SP
 
 #### Project
+* **Team**: 4 people
 * **Engine**: Godot
 * **My role**: Programmer
 

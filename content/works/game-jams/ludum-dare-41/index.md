@@ -13,9 +13,17 @@ tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---
 
-Our team from [USPGameDev](https://uspgamedev.org/) got together again to make "It's all about lasagna!", a farming game with a terror mood were a kid get to their grandma's house and decides to make a lasagna while she doesn't arrive. The theme was "Combine two incompatible genres", and we combined the peaceful and harmless life at the farm with the mood of a terror movie.
+We made "It's all about lasagna!", a farming game with a terror mood, where a kid goes to their grandma's house and decides to make a lasagna while she doesn't arrive.
+
+The theme was "Combine two incompatible genres", and we combined the peaceful and harmless life at the farm with the mood of a terror movie.
+
+#### Jam
+* **Duration**: 3 days
+* **Model**: Online
+* **Place**: IME - USP - São Paulo, SP
 
 #### Project
+* **Team**: [USPGameDev](https://uspgamedev.org/) (17 people)
 * **Engine**: Godot
 * **My role**: Programmer
 

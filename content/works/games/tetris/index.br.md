@@ -1,7 +1,7 @@
 ---
 title: Tetris
 date: 2017-08-06T00:00:00-03:00
-description: My version of the classic Tetris game.
+description: Minha versão do clássico jogo Tetris.
 menu:
   sidebar:
     name: Teris
@@ -9,11 +9,11 @@ menu:
     parent: games
     weight: 2
 hero: tetris-cover.png
-tags: ["Tetris", "Game"]
-categories: ["Personal"]
+tags: ["Tetris", "Jogo"]
+categories: ["Pessoal"]
 ---
 
-My version of the classic Tetris game.
+Minha versão do clássico jogo Tetris.
 <!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
@@ -29,10 +29,10 @@ My version of the classic Tetris game.
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/tetris.js"></script>
 
-#### How to play
-* Left and right keys: Move the piece
-* Down key: Increases piece's falling speed
-* Z: Rotate the piece anticlockwise
-* X: Rotate the piece clockwise
-* P: Pause
-* Fill the rows to increase your score!!
+#### Como jogar
+* Setas esquerda e direita: Movem a peça
+* Seta para baixo: Aumenta a velocidade da queda da peça
+* Z: Rotaciona a peça em sentido anti-horário
+* X: Rotaciona a peça em sentido horário
+* P: Pausa
+* Preencha as linhas para aumentar a pontuação!!

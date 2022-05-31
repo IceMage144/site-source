@@ -13,9 +13,17 @@ tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---
 
-A 72-hour online global game jam. The theme for this edition was "The more you have, the worse it is". Our team from [USPGameDev](https://uspgamedev.org/) got together at USP to make "L.A.V.A. series L.A.M.P. edition vs the world", a cyberpunk shooting game were the objective is to kill as many waves of monster you can, using dozens of different weapons. As the waves are beaten, you get more weapons and the worse it is to manage them at your keyboard.
+We made "L.A.V.A. series L.A.M.P. edition vs the world", a cyberpunk shooter, where the goal is to kill as many waves of monsters you can, using dozens of different weapons.
+
+This edition's theme was "The more you have, the worse it is". You get a new weapon after each wave, and have to assign each one to a different key in the keyboard. As the time passes it gets harder to remember were each weapon was.
+
+#### Jam
+* **Duration**: 3 days
+* **Model**: Online
+* **Place**: IME - USP - São Paulo, SP
 
 #### Project
+* **Team**: [USPGameDev](https://uspgamedev.org/) (7 people)
 * **Engine**: Godot
 * **My role**: Programmer
 

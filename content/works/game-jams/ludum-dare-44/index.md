@@ -13,10 +13,16 @@ tags: ["Game Jam", "Ludum Dare"]
 categories: ["Events"]
 ---
 
-Our team from [USPGameDev](https://uspgamedev.org/) got together again to make "Sinner". The theme was "Your life is currency".
+In this jam we made "Sinner". The theme was "Your life is currency".
 <!--more-->
 
+#### Jam
+* **Duration**: 3 days
+* **Model**: Online
+* **Place**: IME - USP - São Paulo, SP
+
 #### Project
+* **Team**: [USPGameDev](https://uspgamedev.org/) (11 people)
 * **Engine**: Godot
 * **My role**: Programmer
 

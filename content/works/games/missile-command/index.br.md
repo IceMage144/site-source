@@ -1,7 +1,7 @@
 ---
 title: Missile Command
 date: 2017-08-18T00:00:00-03:00
-description: My version of the classic Missile Command game.
+description: Minha versão do clássico jogo Missile Command
 menu:
   sidebar:
     name: Missile Command
@@ -9,11 +9,11 @@ menu:
     parent: games
     weight: 4
 hero: missile-command-cover.png
-tags: ["Missile", "Command", "Game"]
-categories: ["Personal"]
+tags: ["Missile", "Command", "Jogo"]
+categories: ["Pessoal"]
 ---
 
-My version of the classic Missile Command game.
+Minha versão do clássico jogo Missile Command.
 <!--more-->
 
 <link rel="stylesheet" href="/css/game.css">
@@ -29,8 +29,8 @@ My version of the classic Missile Command game.
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/missile_command.js"></script>
 
-#### How to play
-* Arrow keys: Move cursor
-* Z: Shoot
-* P: Pause
-* Destroy enemy's missiles to protect your cities!!
+#### Como jogar
+* Setas: Movem o cursor
+* Z: Atira
+* P: Pausa
+* Destrua os mísseis inimigos para proteger suas cidades!!

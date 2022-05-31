@@ -13,9 +13,13 @@ tags: ["Slime", "Defense", "Tower", "Game"]
 categories: ["Extension"]
 ---
 
-A work that I made with Eduardo Evaristo for a culture and extension class. It is a tower defense were you are a slime that is trying to protect your chest of money from a variaety of enemies. You have the ability to walk through the map and collect resources, so you can create friends with your body pieces to help protecting your precious resources.
+It is a tower defense were you are a slime that is trying to protect your treasure chest from a variaety of enemies. You have the ability to walk through the map and collect resources, so you can create friends with your body pieces to help protecting your precious fortune.
+
+I made with Eduardo Evaristo for a culture and extension class.
 
 #### Project
+* **Team**: 2 people
+* **Duration**: 6 months
 * **Engine**: Godot
 * **My role**: Programmer and graphic designer
 

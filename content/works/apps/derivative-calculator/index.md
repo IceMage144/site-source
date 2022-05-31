@@ -13,7 +13,7 @@ tags: ["Derivative", "Calculator", "App"]
 categories: ["Personal"]
 ---
 
-This app calculates the derivative of a function for you. It parses the input into a tree of operators, numbers and variables, passes through the tree deriving the functions and then parses it back to LaTeX, so the result can be shown.
+This app calculates the derivative of a function for you. It parses the input into a tree of operators, numbers and variables, passes through the tree deriving the functions and then transforms it back to LaTeX, so the result can be shown.
 
 It is not optmized, so you may have to do some algebraic manipulations to simplify the result.
 
@@ -53,11 +53,11 @@ It is not optmized, so you may have to do some algebraic manipulations to simpli
 * Click on the "Calculate" button and see the derivative!
 
 ## Valid functions and variables
-* Variables can be an upper or lower case letter (excluding "e"), and can have subscript using "_", ex.: x_i
-* To use unary "-", use "~" or it will show an error message
+* Variables can be an upper or lower case letter (excluding "e"), and can have a subscript character using "_". Ex.: x_i
+* For unary "-" use "~" instead, or it will not read correctly the input
 * You can use the constants e, pi and gr (golden ratio)
-* Power was implemented as a^b and square root was implemeted as sqrt(a)
-* log and ln were implemented too
-* Every trigonometric function were implemented (reciprocals, inverses and hiperbolics too)
-* sum(a, b, x_i) = summation of x_i's, with i going from a to b (a and b can be almost anything) (Obs.: don't try to derivate it in x_i!)
-* Factorial is not implemented
+* Power was implemented as x^y and square root was implemeted as sqrt(x)
+* Logarithm is implemented as log(b, x) (base b) and ln(x) (base e)
+* Trigonometric functions are implemented (sin, cos, tan), moreover, their reciprocals (sec, csc, cot), inverses (arcsec, arccos, arctan, arcsec, arccsc, arccot) and hyperbolic versions (sinh, cosh, tanh, sech, csch, coth) are implemented too
+* sum(a, b, x_i) = summation of x_i's, with i going from a to b (a and b can be almost anything) (Obs.: when using this notation, the derivation at the iteration variable x_i is not available)
+* Factorial is NOT implemented

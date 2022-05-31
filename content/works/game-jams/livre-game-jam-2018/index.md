@@ -13,9 +13,21 @@ tags: ["Game Jam", "Livre Game Jam"]
 categories: ["Events"]
 ---
 
-Our team from [USPGameDev](https://uspgamedev.org/) went to UNICAMP again to participate. We made the game "Shin Ara Loop", a game where the day keep looping back when you sleep (like what happens at ["Groundhog Day"](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) and, to make sure this doesn't happen anymore, you have to fix the church's clock. The theme was "Finally I'm free", and the jam also had some achievements (like optional sub-themes), and we accomplished two of them: create a game without words and use three languages at the game ("Shin ara loop" means "New time loop", "Shin" been "new" in japanese, "ara" been "time" in tupi and "loop" been in plain english).
+In this jam we made "Shin Ara Loop", a game where the main character is stuck in a time loop, in a way that she goes back to its start when she sleeps (like what happens at ["Groundhog Day"](https://en.wikipedia.org/wiki/Groundhog_Day_(film)). To make sure this doesn't happen anymore, you heve to help her to fix the the church's clock.
+
+The theme was "Finally, now i'm truly free", and the jam also had some achievements (like optional sub-themes), and we acomplished two of them:
+* I'm out of words!: Don't use any written word in your game, in any language
+* Polygloth: Use at least 3 languages in your game (excluding credits and menus)
+
+Throughout the game we used icons and symbols to replace words, and we also put together three words from three different languanges to create the game's title ("Shin ara loop" means "New time loop", "Shin" been "new" in japanese, "ara" been "time" in tupi and "loop" been in plain english).
+
+#### Jam
+* **Duration**: 2 days
+* **Model**: Presential
+* **Place**: UNICAMP - Campinas, SP
 
 #### Project
+* **Team**: [USPGameDev](https://uspgamedev.org/) (4 people)
 * **Engine**: Godot
 * **My role**: Programmer
 

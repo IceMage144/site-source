@@ -1,30 +1,30 @@
 ---
-title: Julia Set Visualizer
+title: Visualizador de conjuntos de Julia
 date: 2018-02-01T00:00:00-03:00
-description: An online tool for visualizing Julia Sets.
+description: Uma ferramenta para visualizar os conjuntos de Julia
 menu:
   sidebar:
-    name: Julia Set Visualizer
+    name: Visualizador de conjuntos de Julia
     identifier: julia-set
     parent: apps
     weight: 2
 hero: julia-set-cover.png
-tags: ["Julia", "Set", "App"]
-categories: ["Personal"]
+tags: ["Julia", "Conjunto", "App"]
+categories: ["Pessoal"]
 math: true
 ---
 
-This app generates pictures of the Julia sets.
+Esse app gera imagens dos conjuntos de Julia.
 <!--more-->
 
-The Julia set of a complex point c is defined to be the set of complex points z such that the following sequence does not diverge.
+O conjunto de Julia de um ponto c no plano complexo é definido como sendo o conjunto de pontos complexos z tais que a sequência abaixo não diverge.
 
 $$a_0 = z$$
 $$a_n = a_{n-1}^2 + c$$
 
-This app generates a picture coloring each point of the complex plane with a different color depending on how "quickly" the sequence diverges when it starts at that point.
+Esse app gera uma imagem colorindo cada ponto do plano complexo com uma cor diferente dependendo do quão "rápido" a sequência divergiu quando ela começa naquele ponto.
 
-Since the Mandelbrot set is deeply linked with the Julia set (c is a point of the Mandelbrot set if, and only if, the Julia set of that point is not empty) the app displays a picture of the Mandelbrot set to guide the choice of c.
+Dado que o conjunto de Mandelbrot está profundamente ligado com os conjuntos de Julia (c é um ponto do conjunto de Mandelbrot se, e somente se, o conjunto de Julia daquele ponto não é vazio) o app também mostra uma imagem do conjunto de Mandelbrot para ajudar na escolha do ponto c.
 
 <link rel="stylesheet" href="/css/julia.css">
 
@@ -54,7 +54,7 @@ Since the Mandelbrot set is deeply linked with the Julia set (c is a point of th
       <input type="text" id="imaginary"/>
     </div>
   </div>
-  <input id="sub" class="row-el" type="submit" value="Submit" onClick="sub()"/>
+  <input id="sub" class="row-el" type="submit" value="Enviar" onClick="sub()"/>
 </div>
 
 <div class="res-group">
@@ -77,7 +77,7 @@ Since the Mandelbrot set is deeply linked with the Julia set (c is a point of th
 <script type="text/javascript" src="/js/game_engine.js"></script>
 <script type="text/javascript" src="/js/julia_script.js"></script>
 
-## How to use
-* Enter a complex number at the fields and submit it to see the corresponding Julia set on the left canvas
-* You can hold the Z key and point with the mouse to the Mandelbrot set, so you can see the Julia set of that point on the left canvas
-* You can increase or decrease the resolution using the "+" and "-" buttons
+## Como usar
+* Coloque um número complexo nos campos e clique em "Enviar" para ver o conjunto de Julia correspondente na tela da esquerda
+* Você pode segurar a tecla Z e apontar com o mouse no conjunto de Mandelbrot na tela direita, assim o conjunto de Julia daquele ponto será gerado
+* Você pode aumentar ou diminuir a resolução usando os botões "+" e "-"
