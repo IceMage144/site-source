@@ -1,0 +1,22 @@
+@font-face {
+    font-family: magicPixel;
+    src: local('/font/magic-pixel/Magic-Pixel.ttf'),
+         url('/font/magic-pixel/Magic-Pixel.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: magicPixelBold;
+    src: local('/font/magic-pixel/Magic-Pixel-Bold.ttf'),
+         url('/font/magic-pixel/Magic-Pixel-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #888888;
+}

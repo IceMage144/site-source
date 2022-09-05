@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tetris on João&#39;s site</title>
+    <link>https://icemage144.github.io/tags/tetris/</link>
+    <description>Recent content in Tetris on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 -0300</lastBuildDate><atom:link href="https://icemage144.github.io/tags/tetris/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Tetris</title>
+      <link>https://icemage144.github.io/works/games/tetris/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/tetris/</guid>
+      <description>--How to play  Left and right keys: Move the piece Down key: Increases piece&amp;rsquo;s falling speed Z: Rotate the piece anticlockwise X: Rotate the piece clockwise P: Pause Fill the rows to increase your score!!  </description>
+    </item>
+    
+    
+  </channel>
+</rss>

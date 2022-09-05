@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on João&#39;s site</title>
+    <link>https://icemage144.github.io/tags/game/</link>
+    <description>Recent content in Game on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://icemage144.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Pirate Ship Battles</title>
+      <link>https://icemage144.github.io/works/games/pirate-ship-battles/</link>
+      <pubDate>Tue, 09 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/pirate-ship-battles/</guid>
+      <description> Repository  </description>
+    </item>
+    
+    <item>
+      <title>Monster Invasion</title>
+      <link>https://icemage144.github.io/works/games/tower-defense/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/tower-defense/</guid>
+      <description>--How to play  Mouse: Everything Buy towers from the shop and build them in a nice place Click on towers to inspect and upgrade Defeat huge waves of monsters with your military weapons!!  </description>
+    </item>
+    
+    <item>
+      <title>Maze</title>
+      <link>https://icemage144.github.io/works/games/maze/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/maze/</guid>
+      <description>--How to play  Arrow keys: Move the maze Bring the ball to the green spot!!  </description>
+    </item>
+    
+    <item>
+      <title>Missile Command</title>
+      <link>https://icemage144.github.io/works/games/missile-command/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/missile-command/</guid>
+      <description>--How to play  Arrow keys: Move cursor Z: Shoot P: Pause Destroy enemy&amp;rsquo;s missiles to protect your cities!!  </description>
+    </item>
+    
+    <item>
+      <title>Tetris</title>
+      <link>https://icemage144.github.io/works/games/tetris/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/tetris/</guid>
+      <description>--How to play  Left and right keys: Move the piece Down key: Increases piece&amp;rsquo;s falling speed Z: Rotate the piece anticlockwise X: Rotate the piece clockwise P: Pause Fill the rows to increase your score!!  </description>
+    </item>
+    
+    <item>
+      <title>Snake</title>
+      <link>https://icemage144.github.io/works/games/snake/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/games/snake/</guid>
+      <description>--How to play  Arrow keys: Move the snake P: Pause Eat apples to increase your score!!  </description>
+    </item>
+    
+    
+  </channel>
+</rss>

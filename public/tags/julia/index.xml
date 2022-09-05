@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia on João&#39;s site</title>
+    <link>https://icemage144.github.io/tags/julia/</link>
+    <description>Recent content in Julia on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0300</lastBuildDate><atom:link href="https://icemage144.github.io/tags/julia/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Julia Set Visualizer</title>
+      <link>https://icemage144.github.io/works/apps/julia-set/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/julia-set/</guid>
+      <description>JuliaMandelbrot+ i Resolution: 200
+var onKeyPress = function(event){if (event.keyCode == 13){document.getElementById(&#39;sub&#39;).click();}}document.getElementById(&#39;real&#39;).onkeypress = onKeyPressdocument.getElementById(&#39;imaginary&#39;).onkeypress = onKeyPressHow to use  Enter an imaginary number at the fields to see the corresponding Julia set on the left canvas You can hold the Z key and point with the mouse to the Mandelbrot set, so you can see the Julia set of that point on the left canvas You can increase or decrease the resolution using the &amp;ldquo;+&amp;rdquo; and &amp;ldquo;-&amp;rdquo; buttons  </description>
+    </item>
+    
+    
+  </channel>
+</rss>

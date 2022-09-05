@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livre Game Jam on João&#39;s site</title>
+    <link>https://icemage144.github.io/tags/livre-game-jam/</link>
+    <description>Recent content in Livre Game Jam on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 -0300</lastBuildDate><atom:link href="https://icemage144.github.io/tags/livre-game-jam/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Livre Game Jam 2018</title>
+      <link>https://icemage144.github.io/works/game-jams/livre-game-jam-2018/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/game-jams/livre-game-jam-2018/</guid>
+      <description>Our team from USPGameDev went to UNICAMP again to participate. We made the game &amp;ldquo;Shin Ara Loop&amp;rdquo;, a game where the day keep looping back when you sleep (like what happens at &amp;ldquo;Groundhog Day&amp;rdquo; and, to make sure this doesn&amp;rsquo;t happen anymore, you have to fix the church&amp;rsquo;s clock. The theme was &amp;ldquo;Finally I&amp;rsquo;m free&amp;rdquo;, also the jam had some achievements (like optional sub-themes), and we accomplished two of them: create a game without words and use three languages at the game (&amp;ldquo;Shin ara loop&amp;rdquo; means &amp;ldquo;New time loop&amp;rdquo;, &amp;ldquo;Shin&amp;rdquo; been &amp;ldquo;new&amp;rdquo; in japanese, &amp;ldquo;ara&amp;rdquo; been &amp;ldquo;time&amp;rdquo; in tupi and &amp;ldquo;loop&amp;rdquo; been &amp;ldquo;loop&amp;rdquo; in english).</description>
+    </item>
+    
+    <item>
+      <title>Livre Game Jam 2017</title>
+      <link>https://icemage144.github.io/works/game-jams/livre-game-jam-2017/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/game-jams/livre-game-jam-2017/</guid>
+      <description>A 48-hour game jam organized by LivreCamp, Gamux and Fellowship of the game to promote the use of free software. Our team from USPGameDev went to UNICAMP to participate. We made the game &amp;ldquo;Network Battle: Chain Hostility&amp;rdquo;, an assimetric multiplayer game about a cyberwar between a hacker and the government.
+Project:
+ Engine: LOVE2D My role: Programmer  Links:
+ Play it Repository Entry  </description>
+    </item>
+    
+    
+  </channel>
+</rss>

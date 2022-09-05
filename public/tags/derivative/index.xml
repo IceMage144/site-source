@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derivative on João&#39;s site</title>
+    <link>https://icemage144.github.io/tags/derivative/</link>
+    <description>Recent content in Derivative on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 -0300</lastBuildDate><atom:link href="https://icemage144.github.io/tags/derivative/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Derivative Calculator</title>
+      <link>https://icemage144.github.io/works/apps/derivative-calculator/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/derivative-calculator/</guid>
+      <description>Function Variable var a = function(e) {if (e.keyCode == 13)document.getElementById(&#39;calc&#39;).click();}document.getElementById(&#39;formInput&#39;).onkeypress = adocument.getElementById(&#39;varInput&#39;).onkeypress = a..........
+How to use  Put the function in the first line Put the variable you want to derivate in at the second line Click on the &amp;ldquo;Calculate&amp;rdquo; button and see the derivative!  Valid functions and variables  Variables can be an upper or lower case letter (excluding &amp;ldquo;e&amp;rdquo;), and can have subscript using &amp;ldquo;_&amp;rdquo;, ex.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

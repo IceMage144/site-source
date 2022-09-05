@@ -1,0 +1,36 @@
+.julia-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.julia-column {
+    float: left;
+    width: 50%;
+}
+
+.inputBorder {
+    display: inline-block;
+    border: 2px solid #888888;
+}
+
+.row-el {
+    display: inline-block;
+}
+
+.input-group {
+    margin-top: 20px;
+}
+
+.res-group {
+    margin-top: 10px;
+}
+
+#mand {
+    width: 90%;
+    margin-right: 10%;
+}
+
+#julia {
+    width: 90%;
+}

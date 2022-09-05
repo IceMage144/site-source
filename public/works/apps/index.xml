@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on João&#39;s site</title>
+    <link>https://icemage144.github.io/works/apps/</link>
+    <description>Recent content in Apps on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://icemage144.github.io/works/apps/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Rotalize</title>
+      <link>https://icemage144.github.io/works/apps/rotalize/</link>
+      <pubDate>Tue, 09 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/rotalize/</guid>
+      <description>Something.</description>
+    </item>
+    
+    <item>
+      <title>Julia Set Visualizer</title>
+      <link>https://icemage144.github.io/works/apps/julia-set/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/julia-set/</guid>
+      <description>JuliaMandelbrot+ i Resolution: 200
+var onKeyPress = function(event){if (event.keyCode == 13){document.getElementById(&#39;sub&#39;).click();}}document.getElementById(&#39;real&#39;).onkeypress = onKeyPressdocument.getElementById(&#39;imaginary&#39;).onkeypress = onKeyPressHow to use  Enter an imaginary number at the fields to see the corresponding Julia set on the left canvas You can hold the Z key and point with the mouse to the Mandelbrot set, so you can see the Julia set of that point on the left canvas You can increase or decrease the resolution using the &amp;ldquo;+&amp;rdquo; and &amp;ldquo;-&amp;rdquo; buttons  </description>
+    </item>
+    
+    <item>
+      <title>Derivative Calculator</title>
+      <link>https://icemage144.github.io/works/apps/derivative-calculator/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/derivative-calculator/</guid>
+      <description>Function Variable var a = function(e) {if (e.keyCode == 13)document.getElementById(&#39;calc&#39;).click();}document.getElementById(&#39;formInput&#39;).onkeypress = adocument.getElementById(&#39;varInput&#39;).onkeypress = a..........
+How to use  Put the function in the first line Put the variable you want to derivate in at the second line Click on the &amp;ldquo;Calculate&amp;rdquo; button and see the derivative!  Valid functions and variables  Variables can be an upper or lower case letter (excluding &amp;ldquo;e&amp;rdquo;), and can have subscript using &amp;ldquo;_&amp;rdquo;, ex.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

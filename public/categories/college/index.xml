@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>College on João&#39;s site</title>
+    <link>https://icemage144.github.io/categories/college/</link>
+    <description>Recent content in College on João&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://icemage144.github.io/categories/college/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Rotalize</title>
+      <link>https://icemage144.github.io/works/apps/rotalize/</link>
+      <pubDate>Tue, 09 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://icemage144.github.io/works/apps/rotalize/</guid>
+      <description>Something.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
